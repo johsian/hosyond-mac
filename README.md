@@ -12,4 +12,4 @@ Instalador de Hosyond Bridge para usar la pantalla Hosyond con rekordbox y la DD
 4. Concede a Hosyond Bridge permiso de Accesibilidad. Si macOS pide Grabación de pantalla o Red local, concédeselos también.
 5. Conecta la DDJ-FLX4 por USB y usa rekordbox en **Performance → 2Deck Horizontal**. Cuando la Hosyond esté conectada por Wi-Fi, puedes alimentarla con un cargador o una batería.
 
-El instalador está firmado localmente y no está notarizado por Apple. No necesitas una microSD para instalarlo.
+La versión más reciente está firmada con Developer ID y notarizada por Apple. No necesitas una microSD para instalarlo.
